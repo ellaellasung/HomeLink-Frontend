@@ -4,9 +4,6 @@ Run
 2. >> yarn start
 3. >> open browser: http://localhost:3000
 
-Documentation
-![My Image](https://drive.google.com/uc?export=view&id=111gWVYSH9CqUdR7jTNC0vKlQP5wWXwop)
-
 Login
 ![My Image](https://drive.google.com/uc?export=view&id=1oYx-4Bc0bLWkDoEddX24gBVF-UFpXiof)
 
