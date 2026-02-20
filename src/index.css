@@ -1,0 +1,16 @@
+    html, body {
+      height: 100%;      /* required for full-page centering */
+      margin: 0;
+    }
+
+    body {
+      display: flex;
+      justify-content: center; /* horizontal center */
+      align-items: center;     /* vertical center */
+    }
+
+    #root {
+      height: 100%;    
+      width: 100%;
+      margin: 0;
+    }
